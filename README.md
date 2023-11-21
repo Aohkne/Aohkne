@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is khoa <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.pngtree.com%2Ffreepng%2Fvietnam-flag-of-circle-brush-stroke-decoration_3608763.html&psig=AOvVaw0Z2ZHnpHo3EvWAYQj3rXxn&ust=1700656015952000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDGp7-L1YIDFQAAAAAdAAAAABAE" width="17" /> . </p></h2>
+<h2 align="left">Hi 👋! My name is khoa <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png" width="17" /> . </p></h2>
 
 ### About me
 
