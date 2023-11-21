@@ -12,11 +12,10 @@
 ## I code with
 
 <div align="left">
-  <img src="#" height="30" alt="javascript logo"  />
-  <!-- https://skillicons.dev/icons?i=js-->
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="#" height="30" alt="java logo"  />
-  <!-- //https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg -->
+  <img src="//https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
   
 </div>
 
