@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is khoa</h2>
+<h2 align="left">Hi 👋! My name is khoa <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> . </p></h2>
 
 ### About me
 
