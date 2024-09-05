@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is khoa </h2></br></br>
+<marquee direction="right"><h2 align="left">Hi 👋! My name is khoa </h2></marquee>
+</br>
 
 ## About me
 
