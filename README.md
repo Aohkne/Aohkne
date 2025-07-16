@@ -9,11 +9,13 @@
 </div>
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=Aohkne&color=green&style=flat&label=Viewer&abbreviated=true" alt="viewer"/>
+  <img src="https://komarev.com/ghpvc/?username=Aohkne&color=blue&style=flat&label=Viewer&abbreviated=true" alt="viewer"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Aohkne?label=Follow&style=flat&logo=github&color=green" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/endpoint?style=flat&color=green&label=Code&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33571" alt="code-time"/>
+  <img src="https://img.shields.io/github/stars/Aohkne?label=Stars&style=flat&color=yellow" alt="Stars" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/endpoint?style=flat&color=purple&label=Code&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33571" alt="code-time"/>
 </div>
 
 <p> 📫 Gmail: aohkne@gmail.com </p>
